@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PhotoGallery_Kotlin</string>
+    <string name="label_end">The End</string>
+    <string name="label_comment">Comments: </string>
+    <string name="label_no_comment">No Comments</string>
+
+    <string name="error_no_internet">No Internet Connection</string>
+</resources>
